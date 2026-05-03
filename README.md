@@ -23,7 +23,7 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 
 </div>
 ---
-###CONTENIDOS 
+#CONTENIDOS 
 **ALGORITMOS** 
 **PSEUDOCÓDIGOS** 
 **DIAGRAMA DE FLUJO**
