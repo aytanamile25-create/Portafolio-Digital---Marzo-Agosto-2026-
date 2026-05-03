@@ -31,25 +31,7 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 4. [Conclusiones ](#conclusiones)
 
 ---
-## 📚 Glosario de Conceptos - Unidad 1
 
-| # | Concepto | Definición | Imagen / Organizador |
-| :--- | :--- | :--- | :--- |
-| 1 | **Algoritmos** | Son planteamientos finitos, ordenados y lógicos de instrucciones para resolver un problema o una tarea.
-Caracteristicas principales:
-Finito: Inicio / Fin.
-Ordenado: Tiene una secuencia.
-Preciso: Instrucciones claras.
-Eficiente: Resuelve problemas de la mejor manera | <img src="URL_IMAGEN_1" width="160"> |
-| 2 | **Software** | Es el conjunto de programas y reglas informáticas que permiten ejecutar tareas. | <img src="URL_IMAGEN_2" width="160"> |
-| 3 | **Algoritmo** | Secuencia de pasos lógicos y finitos para resolver un problema específico. | <img src="URL_IMAGEN_3" width="160"> |
-| 4 | **Sistemas Operativos** | Software que gestiona el hardware y permite la interacción con el usuario. | <img src="URL_IMAGEN_4" width="160"> |
-| 5 | **Lenguajes de Programación** | Herramientas para escribir instrucciones que la computadora puede entender. | <img src="URL_IMAGEN_5" width="160"> |
-| 6 | **Compilación** | Proceso de traducir el código fuente a un lenguaje que la máquina pueda ejecutar. | <img src="URL_IMAGEN_6" width="160"> |
-
----
-```python
-print("Universidad Nacional de Loja")
 
 
 
