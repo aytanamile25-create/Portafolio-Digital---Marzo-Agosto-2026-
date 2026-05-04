@@ -25,13 +25,12 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 ---
 ## 📌 Índice de Contenidos
 
-1. [Introducción](#introducción)
-2. [Contenidos de la unidad 1](#contenidos-de-la-unidad-1)
-3. [Ejercicios de Programación](#ejercicios-de-programación)
-4. [Conclusiones ](#conclusiones)
+1. [Contenidos de la unidad 1](#contenidos-de-la-unidad-1)
+2. [Ejercicios de Programación](#ejercicios-de-programación)
+3. [Conclusiones ](#conclusiones)
 ---
 
-#1. Algoritmos:
+# 1. Algoritmos:
 
   Son planteamientos finitos, ordenados y lógicos de instrucciones para resolver porblemas o tareas.
   Las caracteristicas principales de los algoritmos son los siguientes:
@@ -50,7 +49,8 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 Es un lenguaje natural y estructurado (español/ingles) pero con lógicas básicas de la programación. Sirve para ingresar algoritmos para coodificar y comprobar que todo este correcto para luego eescribirlos en un lenguaje de programaciín real. 
 * **Ejemplo:**
 
-![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b3d82463-4645-4644-8e68-95554b1c92ec" />
+
 ---
 
 ### 3.  Diagrama de flujo:
@@ -58,7 +58,8 @@ Es una representación gráfica que permite visualizar un algoritmo de forma est
 El diagrama de flujo está estructurado por símbolos y flechas a continuación:
 * **Ejemplo:**
 
-![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2e7695e3-5951-40a2-a964-033159687adf" />
+
  ---
 
  #### 4. Prueba de escritorio:
