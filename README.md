@@ -41,7 +41,8 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 
 * **Ejemplo:**
 
-![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
+![Algoritmo para sumar dos números](<img width="248" height="122" alt="image" src="https://github.com/user-attachments/assets/57fd8afc-8cf9-4ac6-8084-9ff0516ded71" />
+)
 
 ---
 ## 2. Pseudocódigos:
