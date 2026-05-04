@@ -69,8 +69,8 @@ El diagrama de flujo está estructurado por símbolos y flechas a continuación:
 Simulación manual paso a paso de los algoritmos por medio de tablas donde cada columna van las variables y las filas se muestra los valores de acuerdo a la ejecución de una tarea. Su función es verificar el funcionamiento correcto de ejecución del algoritmo; detectar errores antes de llevar a una programación.
 
 * **Ejemplo:**
+<img width="274" height="260" alt="image" src="https://github.com/user-attachments/assets/4ccacdd2-0480-4266-828f-fad2d27835af" />
 
-![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
 ---
 
 ##### 5. Lenguaje de programación:
@@ -79,15 +79,14 @@ Es útil para el desarrollo de aplicaciones, avamce tecnológicos y desarrollo d
 
 * **Ejemplo:**
 
-![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
 ---
 
 ###### 6. Prograación por bloques:
 Son pequeños programas llamado piezas gráficas (bloques) evitando realizar códigos de textos complejos, es como un rompecabezas si los bloques no encajan, el código no funciona, aporta mucho al aprendizaje de la lógica y estructura de la programación sin reglas estrictas. 
 
 * **Ejemplo:**
+<img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/a19fa71a-d93b-4a12-aea4-aada2ea60e68" />
 
-![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
 
 
 
