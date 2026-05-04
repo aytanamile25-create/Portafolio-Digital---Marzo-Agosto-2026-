@@ -94,7 +94,7 @@ Son pequeños programas llamado piezas gráficas (bloques) evitando realizar có
 <img width="414" height="362" alt="image" src="https://github.com/user-attachments/assets/8bc440ad-5816-4ec3-912d-d1e3cb65aa1c" />
 
 ---
-8. Concluciones:
+**8. Concluciones:**
 Durante la unidad se aprendio lo básico para utilizar programas como pseint, visual studio code. La práctica dentro de clases con el docente ayudo mucho al aprendizaje para comprender mejor y con facilidad ya que veiamos teoria y luego a practica en clases. He concluido que La programación no es solo memorizar comandos, sino desarrollar la capacidad de resolver problemas con eficiencia, comprender la lógica. 
 
 
