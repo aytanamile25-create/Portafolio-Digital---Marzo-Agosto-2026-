@@ -31,9 +31,8 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 4. [Conclusiones ](#conclusiones)
 ---
 
-##1. Algoritmos:
+#1. Algoritmos:
 
-* **¿Qué son los Algoritmos?:**
   Son planteamientos finitos, ordenados y lógicos de instrucciones para resolver porblemas o tareas.
   Las caracteristicas principales de los algoritmos son los siguientes:
   Finito: Inicio / Fin
@@ -48,12 +47,44 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 ---
 ## 2. Pseudocódigos:
 
-* **¿Qué son los Algoritmos?:**
-  Es un lenguaje natural y estructurado (español/ingles) pero con lógicas básicas de la programación. Sirve para ingresar algoritmos para coodificar y comprobar que todo este correcto para luego eescribirlos en un lenguaje de programaciín real.
+Es un lenguaje natural y estructurado (español/ingles) pero con lógicas básicas de la programación. Sirve para ingresar algoritmos para coodificar y comprobar que todo este correcto para luego eescribirlos en un lenguaje de programaciín real. 
 * **Ejemplo:**
 
 ![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
+---
 
+### 3.  Diagrama de flujo:
+Es una representación gráfica que permite visualizar un algoritmo de forma estructurada y organizada para mostrar paso a paso como se ejecuta una tarea. 
+El diagrama de flujo está estructurado por símbolos y flechas a continuación:
+* **Ejemplo:**
+
+![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
+ ---
+
+ #### 4. Prueba de escritorio:
+
+Simulación manual paso a paso de los algoritmos por medio de tablas donde cada columna van las variables y las filas se muestra los valores de acuerdo a la ejecución de una tarea. Su función es verificar el funcionamiento correcto de ejecución del algoritmo; detectar errores antes de llevar a una programación.
+
+* **Ejemplo:**
+
+![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
+---
+
+##### 5. Lenguaje de programación:
+Es un sistema formal de comunicación que incluye reglas, símbolos, sintaxis que permiten a los programadores comunicarse con las computadoras u otrso objetos tecnológicos para ordenar tareas y ejecutar. 
+Es útil para el desarrollo de aplicaciones, avamce tecnológicos y desarrollo de software.
+
+* **Ejemplo:**
+
+![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
+---
+
+###### 6. Prograación por bloques:
+Son pequeños programas llamado piezas gráficas (bloques) evitando realizar códigos de textos complejos, es como un rompecabezas si los bloques no encajan, el código no funciona, aporta mucho al aprendizaje de la lógica y estructura de la programación sin reglas estrictas. 
+
+* **Ejemplo:**
+
+![Algoritmo para sumar dos números](URL_DE_TU_IMAGEN)
 
 
 
