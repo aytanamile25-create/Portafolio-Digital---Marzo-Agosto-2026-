@@ -13,7 +13,11 @@ Bienvenido a mi portafolio de la Unidad 1. Aquí encontrarás mis trabajos y pro
 
 **Estudiante:** Aytana Salinas Oviedo  
 **Docente:** ING. Lissette López Faicán, PhD
+
+
 **Ciclo:** 1A
+
+
 **Fecha:** 2026
 
 ---
