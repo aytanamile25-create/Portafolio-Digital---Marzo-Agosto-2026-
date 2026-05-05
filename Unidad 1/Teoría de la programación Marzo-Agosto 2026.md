@@ -11,7 +11,7 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 1. [Contenidos de la unidad 1](#contenidos-de-la-unidad-1)
 2. [Ejercicios de Programación](#ejercicios-de-programación)
 3. [Reflexión crítica ](#Reflexióncrítica)
-4. [Declaración de IA ](#Declaración de IA)
+4. [Declaración de IA ](#DeclaracióndeIA)
 ---
 
 # 1. Algoritmos:
