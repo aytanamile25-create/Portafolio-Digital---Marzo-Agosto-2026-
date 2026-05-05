@@ -8,10 +8,10 @@ Bienvenido a mi portafolio de la Unidad 1 Ciclo 1. En este sitio encontraras mis
 ---
 ## 📌 Índice de Contenidos
 
-1. [Contenidos de la unidad 1](#contenidos-de-la-unidad-1)
-2. [Ejercicios de Programación](#ejercicios-de-programación)
-3. [Reflexión crítica ](#Reflexióncrítica)
-4. [Declaración de IA ](#DeclaracióndeIA)
+1. Contenidos de la unidad 1.
+2. Ejercicios de Programación.
+3. Reflexión crítica
+4. Declaración de IA
 ---
 
 # 1. Algoritmos:
