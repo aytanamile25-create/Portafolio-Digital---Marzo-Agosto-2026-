@@ -4,21 +4,21 @@
 
 <img width="500" height="161" alt="image" src="https://github.com/user-attachments/assets/5fe1976a-6cae-483f-83c9-9c5c26e4bc92" />
 
-# UNIVERSIDAD NACIONAL DE LOJA
-## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
-### CARRERA DE COMPUTACIÓN
+**UNIVERSIDAD NACIONAL DE LOJA**
+**FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES**
+**CARRERA DE COMPUTACIÓN**
 
 ---
 
-# PORTAFOLIO DIGITAL
-## Asignatura: Teoría de la Programación
 
-**Estudiante:** Aytana Salinas Oviedo  
+**ASIGNATURA:** TEORÍA DE LA PROGRAMACIÓN 
 
-**Docente:** ING. Lissette López Faicán, PhD
+**ESTUDIANTE:** AYTANA SALINAS OVIEDO   
 
-**Ciclo:** 1A
+**DOCENTE:** ING. LISSETTE LÓPEZ FAICÁN, PHD 
 
-**Fecha:** 2026
+**CICLO:** 1A
+
+**AÑO:** 2026
 
 
