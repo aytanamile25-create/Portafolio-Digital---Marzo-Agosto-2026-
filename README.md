@@ -18,7 +18,7 @@
 
 **CICLO:** 1A
 
-**AÑO:** 2026
+**MARZO - AGOSTO 2026** 
 
 **"Escribo código, diseño experiencias y resuelvo problemas reales."**
 
