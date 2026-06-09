@@ -13,6 +13,6 @@
 
 [**📁 EJERCICIO APLICADO U2**](./EJERCICIO_APLICADO_U2.md)
 
-* [**Reflexión Crítica**](#reflexión-crítica)
+* [**REFLEXIÓN CRÍTICA**](#reflexión-crítica)
   
-#Reflexión crítica 
+## REFLEXIÓN CRÍTICA
