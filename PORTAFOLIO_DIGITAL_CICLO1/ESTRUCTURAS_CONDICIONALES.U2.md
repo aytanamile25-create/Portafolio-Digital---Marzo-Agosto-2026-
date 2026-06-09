@@ -5,7 +5,6 @@
 * [Estructura Condicional Doble](#estructura-condicional-doble)
 * [Estructura Condicional Múltiple](#estructura-condicional-múltiple)
 * [Anidamiento de Estructuras de Condicionales](#anidamiento-de-estructuras-de-condicionales)
-* [6. Prograación por bloque](#6-prograación-por-bloque)
   
 **Son usados para seleccionar “la ruta que debe tomar la ejecución de instrucciones de un algoritmo/programa (tomas de decisiones)”.
 También llamada de alternativa o selectivas, permite en función de una condición elegir un camino de ejecución.**
