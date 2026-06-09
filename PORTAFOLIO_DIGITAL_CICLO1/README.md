@@ -22,7 +22,12 @@
 ---
 **📚 Unidades**
 ---
-Para ver el contenido detallado, haz clic aquí: [📁 Abrir Unidad 1](./UNIDAD%201.md)
+[**📁 UNIDAD 1**](./UNIDAD%201.md)
+
+[**📁 UNIDAD 2**](./UNIDAD%202.md)
+
+[**📁 UNIDAD 3**](./UNIDAD%203.md)
+
 ---
 
 **Conclusiones generales**
