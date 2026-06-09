@@ -1,10 +1,10 @@
 <div align="center">
   
 **📌ESTRUCTURAS REPETITIVAS**
-* [Estructura Condicional Simple](#estructura-condicional-simple)
-* [Estructura Condicional Doble](#estructura-condicional-doble)
-* [Estructura Condicional Múltiple](#estructura-condicional-múltiple)
-* [Anidamiento de Estructuras de Condicionales](#anidamiento-de-estructuras-de-condicionales)
+* [Estructura Mientras](#estructura-mientras)
+* [Estructura Hacer ](#estructura-hacer)
+* [Estructura Para](#estructura-para)
+* [Anidamiento de Estructuras Repetitias](#anidamiento-de-estructuras-reptitivas)
   
 **Son usados para seleccionar “la ruta que debe tomar la ejecución de instrucciones de un algoritmo/programa (tomas de decisiones)”.
 También llamada de alternativa o selectivas, permite en función de una condición elegir un camino de ejecución.**
