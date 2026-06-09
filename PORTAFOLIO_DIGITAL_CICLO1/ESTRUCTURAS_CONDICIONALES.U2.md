@@ -7,11 +7,10 @@
 * [Anidamiento de Estructuras de Condicionales](#anidamiento-de-estructuras-de-condicionales)
 * [6. Prograación por bloque](#6-prograación-por-bloque)
   
-
 **Son usados para seleccionar “la ruta que debe tomar la ejecución de instrucciones de un algoritmo/programa (tomas de decisiones)”.
 También llamada de alternativa o selectivas, permite en función de una condición elegir un camino de ejecución.**
 
-
+---
 ## Estructuras Condicionales Simples
 💻 **IF-SIMPLE**
 
@@ -59,3 +58,12 @@ Conocido como (switch – case ) a diferencia de if-else, esta estructura funcio
 
 ## Anidamiento de Estructuras de Condicionales
 También llamada Estructura Condicional en Cascada. Encontramos numerosos casos en el desarrollo de la solución de problemas en el que luego de tomar una decisión y marcar el camino correspondiente a seguir, es necesario tomar otra decisión.
+
+✔**Diagrama de flujo**
+
+<img width="258" height="172" alt="image" src="https://github.com/user-attachments/assets/aefb0ee6-3b7b-49a7-94d6-d4ae78f35c93" />
+
+
+✔**Pseudocódigo**
+
+<img width="258" height="291" alt="image" src="https://github.com/user-attachments/assets/1230fc89-64b9-4cd8-996e-31dd20bc57ce" />
