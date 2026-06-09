@@ -21,9 +21,10 @@
 
 **AÑO:** 2026
 
+
 **"Escribo código, diseño experiencias y resuelvo problemas reales."**
 
 <img width="297" height="233" alt="image" src="https://github.com/user-attachments/assets/0c536324-1ce2-4c75-8386-04cf671f00a5" />
 
-**Bienvenido a mi portafolio digital, aqui podrás encontrar mis trabajos y proyectos correspondiente al primer ciclo Para ver el contenido detallado, haz clic aquí: 
+**Bienvenido a mi portafolio digital, aqui podrás encontrar mis trabajos y proyectos correspondiente al primer ciclo Para ver el contenido detallado, haz clic aquí:**  [📁 PORTAFOLIO_DIGITAL_CICLO1](./PORTAFOLIO%20DIGITAL%20CICLO%201.md)
 
