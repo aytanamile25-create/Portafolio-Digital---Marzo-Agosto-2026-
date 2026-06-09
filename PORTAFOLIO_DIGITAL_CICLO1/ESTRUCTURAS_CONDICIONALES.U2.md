@@ -1,10 +1,19 @@
-**Estructuras de Control**
+<div align="center">
+  
+**ESTRUCTURAS ALGORÍTMICAS DE CONTROL** 
+* [Estructuras de Control](#estructuras-de-control)
 
-**Estructuras Algorítmicas Condicionales**
-
-* [1. Algorítmos](#1-algoritmos)
-* [2. Pseudocódigos](#2-pseudocódigos)
-* [3.  Diagrama de flujo](#3-diagrama-de-flujo)
-* [4. Prueba de escritorio](#4-prueba-de-escritorio)
-* [5. Lenguaje de programación](#5-lenguaje-de-programación)
+**ESTRUCTURAS ALGORÍTMICAS CONDICIONALES**
+* [Estructura Condicional Simple](#estructura-condicional-simple)
+* [Estructura Condicional Doble](#estructura-condicional-doble)
+* [Estructura Condicional Múltiple](#estructura-condicional-múltiple)
+* [Anidamiento de Estructuras de Condicionales](#anidamiento-de-estructuras-de-condicionales)
 * [6. Prograación por bloque](#6-prograación-por-bloque)
+
+## Estructuras Condicionales Simples
+
+## Estructuras Condicionales Dobles
+
+## Estructuras Condicionales Múltiples
+
+## Anidamiento de Estructuras de Condicionales
