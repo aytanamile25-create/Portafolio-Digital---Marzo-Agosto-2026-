@@ -12,3 +12,7 @@
 [**📁 ESTRUCTURAS REPETITIVAS U2**](./ESTRUCTURAS_REPETITIVAS_U2.md)
 
 [**📁 EJERCICIO APLICADO U2**](./EJERCICIO_APLICADO_U2.md)
+
+* [**Reflexión Crítica**](#reflexión-crítica)
+  
+#Reflexión crítica 
