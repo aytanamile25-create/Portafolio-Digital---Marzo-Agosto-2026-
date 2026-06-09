@@ -2,6 +2,8 @@
   
 **ESTRUCTURAS ALGORÍTMICAS DE CONTROL** 
 * [Estructuras de Control](#estructuras-de-control)
+  
+## Estrucutras de Control 
 
 **ESTRUCTURAS ALGORÍTMICAS CONDICIONALES**
 * [Estructura Condicional Simple](#estructura-condicional-simple)
