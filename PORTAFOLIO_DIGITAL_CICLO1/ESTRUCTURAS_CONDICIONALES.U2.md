@@ -17,11 +17,11 @@ Son estructuras de control en programación que permite analizar y ejecutar seg�
 
 ✔**Diagrama de flujo**
 
-<img width="226" height="210" alt="image" src="https://github.com/user-attachments/assets/b0c88035-6b46-49dd-873e-b1ee160a6bde" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/b0c88035-6b46-49dd-873e-b1ee160a6bde" />
 
 ✔**Pseudocódigo**
 
-<img width="220" height="126" alt="image" src="https://github.com/user-attachments/assets/3024599f-fc8c-4d46-a238-f6e76d4839a7" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/3024599f-fc8c-4d46-a238-f6e76d4839a7" />
 
 ---
 ## Estructuras Condicionales Dobles
@@ -33,11 +33,11 @@ diferentes datos.
 
 ✔**Diagrama de flujo**
 
-<img width="251" height="157" alt="image" src="https://github.com/user-attachments/assets/e7cd9a46-a5ef-49a3-8ff3-a040dc5e7f58" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/e7cd9a46-a5ef-49a3-8ff3-a040dc5e7f58" />
 
 ✔**Pseudocódigo**
 
-<img width="219" height="232" alt="image" src="https://github.com/user-attachments/assets/899c727a-0d23-4c7e-8149-6bdf607aada9" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/899c727a-0d23-4c7e-8149-6bdf607aada9" />
 
 ---
 ## Estructuras Condicionales Múltiples 
@@ -47,11 +47,11 @@ Conocido como (switch – case ) a diferencia de if-else, esta estructura funcio
 
 ✔**Diagrama de flujo**
 
-<img width="520" height="234" alt="image" src="https://github.com/user-attachments/assets/fc0276a2-78b9-4c3c-bece-1f8ad60893f6" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/fc0276a2-78b9-4c3c-bece-1f8ad60893f6" />
 
 ✔**Pseudocódigo**
 
-<img width="301" height="181" alt="image" src="https://github.com/user-attachments/assets/3983caaf-454f-438c-b978-24dc75371079" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/3983caaf-454f-438c-b978-24dc75371079" />
 
 ---
 
@@ -60,9 +60,9 @@ También llamada Estructura Condicional en Cascada. Encontramos numerosos casos 
 
 ✔**Diagrama de flujo**
 
-<img width="258" height="172" alt="image" src="https://github.com/user-attachments/assets/aefb0ee6-3b7b-49a7-94d6-d4ae78f35c93" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/aefb0ee6-3b7b-49a7-94d6-d4ae78f35c93" />
 
 
 ✔**Pseudocódigo**
 
-<img width="258" height="291" alt="image" src="https://github.com/user-attachments/assets/1230fc89-64b9-4cd8-996e-31dd20bc57ce" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/1230fc89-64b9-4cd8-996e-31dd20bc57ce" />
