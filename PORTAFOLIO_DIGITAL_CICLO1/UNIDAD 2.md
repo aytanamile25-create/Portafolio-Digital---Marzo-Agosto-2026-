@@ -14,5 +14,8 @@
 [**📁 EJERCICIO APLICADO U2**](./EJERCICIO_APLICADO_U2.md)
 
 * [**REFLEXIÓN CRÍTICA**](#reflexión-crítica)
+* [**DECLARACIÓN DE LA IA**](#declaración-de-ia)
   
 ## REFLEXIÓN CRÍTICA
+
+##DECLARACIÓN DE LA IA
