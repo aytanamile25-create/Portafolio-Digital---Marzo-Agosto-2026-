@@ -66,4 +66,4 @@ También llamada Estructura Condicional en Cascada. Encontramos numerosos casos 
 
 <img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/1230fc89-64b9-4cd8-996e-31dd20bc57ce" />
 
-### [ 📂 REGRESAR](UNIDAD%202.md)
+[**🔙 REGRESAR**](./UNIDAD%202.md)
