@@ -7,6 +7,8 @@
 ### CICLO 1 
 ## 📑 Contenido de la Unidad 2
 
+**Haga click aqui para ver los contenidos**
+
 [**📁 ESTRUCTURAS CONDICIONALES U2**](./ESTRUCTURAS_CONDICIONALES.U2.md)
 
 [**📁 ESTRUCTURAS REPETITIVAS U2**](./ESTRUCTURAS_REPETITIVAS_U2.md)
