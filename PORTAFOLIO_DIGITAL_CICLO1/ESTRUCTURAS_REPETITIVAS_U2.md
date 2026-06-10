@@ -2,67 +2,73 @@
   
 **📌ESTRUCTURAS REPETITIVAS**
 * [Estructura Mientras](#estructura-mientras)
-* [Estructura Hacer ](#estructura-hacer)
+* [Estructura Hacer-Mientras ](#estructura-hacer-mientras)
 * [Estructura Para](#estructura-para)
-* [Anidamiento de Estructuras Repetitias](#anidamiento-de-estructuras-reptitivas)
+* [Anidamiento de Estructuras Repetitivas](#anidamiento-de-estructuras-reptitivas)
   
-**Son usados para seleccionar “la ruta que debe tomar la ejecución de instrucciones de un algoritmo/programa (tomas de decisiones)”.
-También llamada de alternativa o selectivas, permite en función de una condición elegir un camino de ejecución.**
+**Las estructuras repetitivas permiten repetir un número determinado de veces un grupo de sentencias o instrucciones, o hasta que se cumpla una condición.**
 
 ---
-## Estructuras Condicionales Simples
-💻 **IF-SIMPLE**
+## Estructura Mientras 
+💻 **While**
 
-Son estructuras de control en programación que permite analizar y ejecutar según la condición especifico. If simple funciona evaluando una condición lógica, si la condición se cumple (verdadero) ejecuta automáticamente un bloque de código especificio de lo contrario siendo falso ignora el bloque.
+La estructura while permite evaluar la condición antes de entrar al bloque del bucle repetitivo, si la condición es falsa no puede ingresar a ejecutarse, debe ser verdadera para que de paso al bucle.
 
 ✔**Diagrama de flujo**
 
-<img width="226" height="210" alt="image" src="https://github.com/user-attachments/assets/b0c88035-6b46-49dd-873e-b1ee160a6bde" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/506546c9-7655-48bb-96c3-0cd0fc3ac7b7" />
 
 ✔**Pseudocódigo**
 
-<img width="220" height="126" alt="image" src="https://github.com/user-attachments/assets/3024599f-fc8c-4d46-a238-f6e76d4839a7" />
+<img width="567" height="469" alt="image" src="https://github.com/user-attachments/assets/4b8093d3-6d30-44bf-9ca2-173aecb22c02" />
 
 ---
-## Estructuras Condicionales Dobles
-💻 **IF-ELSE**
+## Estructura Hacer-Mientras
+💻 **Do-While**
 
-Si entonces / si no, un fundamental para la toma de decisiones dentro de un programa. Es una estructura que permite la escoger dos caminos ejecutando de acuerdo a la condición ingresada si es verdadera lo ejecuta de lo contrario si es falsa el programa tomara otras
-alternativas Sirve para controlar el flujo de ejecución. Sin ella, la aplicación sería fijo y no tuviera la posibilidad de ejecutar a
-diferentes datos.
+Dicha estructura se encarga de ejecutar el código que se encuentra dentro de la estructura do_while mientras la condición sea verdadera. Si es verdadera, repite y si es falso sale del bucle. Se usa específicamente cuando se necesita pedir un dato antes de evaluar la condición si está bien o mal. 
 
 ✔**Diagrama de flujo**
 
-<img width="251" height="157" alt="image" src="https://github.com/user-attachments/assets/e7cd9a46-a5ef-49a3-8ff3-a040dc5e7f58" />
-
-✔**Pseudocódigo**
-
-<img width="219" height="232" alt="image" src="https://github.com/user-attachments/assets/899c727a-0d23-4c7e-8149-6bdf607aada9" />
-
----
-## Estructuras Condicionales Múltiples 
-💻**SWITCH-CASE** 
-
-Conocido como (switch – case ) a diferencia de if-else, esta estructura funciona como un menú. No evalua directamente si es verdadero o falso como en los otros casos anteriores sino que toma una variable y la compara con una lista de valores posibles (case), tiene mas opciones para una misma variable. Sirve para simplificar el código cuando una sola variable puede tomar múltiples valores específicos.
-
-✔**Diagrama de flujo**
-
-<img width="520" height="234" alt="image" src="https://github.com/user-attachments/assets/fc0276a2-78b9-4c3c-bece-1f8ad60893f6" />
-
-✔**Pseudocódigo**
-
-<img width="301" height="181" alt="image" src="https://github.com/user-attachments/assets/3983caaf-454f-438c-b978-24dc75371079" />
-
----
-
-## Anidamiento de Estructuras de Condicionales
-También llamada Estructura Condicional en Cascada. Encontramos numerosos casos en el desarrollo de la solución de problemas en el que luego de tomar una decisión y marcar el camino correspondiente a seguir, es necesario tomar otra decisión.
-
-✔**Diagrama de flujo**
-
-<img width="258" height="172" alt="image" src="https://github.com/user-attachments/assets/aefb0ee6-3b7b-49a7-94d6-d4ae78f35c93" />
+<img width="567" height="490" alt="image" src="https://github.com/user-attachments/assets/0dc76143-9c50-4562-9b98-ec343a0d6d31" />
 
 
 ✔**Pseudocódigo**
 
-<img width="258" height="291" alt="image" src="https://github.com/user-attachments/assets/1230fc89-64b9-4cd8-996e-31dd20bc57ce" />
+<img width="567" height="462" alt="image" src="https://github.com/user-attachments/assets/d6d4db1b-e790-4179-9afc-cec5cf43f627" />
+
+---
+## Estructura Para
+💻 **For** 
+
+En el caso de dicha estructura de control, es un bucle que se usa cuando sabe exactamente cuántas veces debe volver o ejecutar el bucle.
+
+La inicialización del contador de iteraciones, con el valor inicial del bucle. 
+
+Una condición (en función del contador), que limita el número de iteraciones que tendrá el bucle.
+
+El incremento (o decremento) en el contador de iteraciones. También llamado Paso.
+
+
+✔**Diagrama de flujo**
+
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/0a2e3613-ef0d-45f1-a4cf-c1b9525f5344" />
+
+
+✔**Pseudocódigo**
+
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/ee0c3eb3-270e-421a-a420-a08d08591cf1" />
+
+---
+
+## Anidamiento de Estructuras Repetitivas
+De igual forma que se pueden anidar o encajar estructuras de selección, es posible insertar un bucle dentro de otro.
+
+✔**Diagrama de flujo**
+
+<img width="567" height="490" alt="image" src="https://github.com/user-attachments/assets/76e6d6e6-2f7d-44bb-abeb-9c8d7406f9a2" />
+
+✔**Pseudocódigo**
+
+<img width="567" height="488" alt="image" src="https://github.com/user-attachments/assets/d190de2c-4de0-4368-ad84-ad8b00d423ac" />
+
