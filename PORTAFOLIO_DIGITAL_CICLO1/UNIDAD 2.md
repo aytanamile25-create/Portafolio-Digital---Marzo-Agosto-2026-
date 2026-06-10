@@ -38,4 +38,4 @@
 
 - Durante del desarrollo de mi portafolio en la unidad 2 hice uso de la IA para generar los códigos correspondientes para modificación de   textos, títulos, insertar las subacarpetas que contiene los temas de la unidad con la finalidad que mi portafolio se visualice de forma   ordenada y creativo.
 
-[**📂 REGRESAR**](./PORTAFOLIO_DIGITAL_CICLO%201.md)
+[**📁 REGRESAR**](./PORTAFOLIO_DIGITAL_CICLO1)
