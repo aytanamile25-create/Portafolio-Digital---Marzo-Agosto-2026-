@@ -47,7 +47,7 @@ Conocido como (switch – case ) a diferencia de if-else, esta estructura funcio
 
 ✔**Diagrama de flujo**
 
-<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/fc0276a2-78b9-4c3c-bece-1f8ad60893f6" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/20e0e37e-8630-4055-8400-508e5ecc592f" />
 
 ✔**Pseudocódigo**
 
