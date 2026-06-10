@@ -6,8 +6,7 @@
 * [Estructura Condicional Múltiple](#estructura-condicional-múltiple)
 * [Anidamiento de Estructuras de Condicionales](#anidamiento-de-estructuras-de-condicionales)
   
-**Son usados para seleccionar “la ruta que debe tomar la ejecución de instrucciones de un algoritmo/programa (tomas de decisiones)”.
-También llamada de alternativa o selectivas, permite en función de una condición elegir un camino de ejecución.**
+**Son usados para seleccionar la ruta que debe tomar la ejecución de instrucciones de un algoritmo según la condición evaluada.**
 
 ---
 ## Estructuras Condicionales Simples
