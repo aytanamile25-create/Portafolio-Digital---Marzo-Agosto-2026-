@@ -1,5 +1,5 @@
 
-**PLANTEAMIENTO DEL PROBLEMA**
+✔**PLANTEAMIENTO DEL PROBLEMA**
 
 Una empresa de energía eléctrica desea automatizar el sistema de cobranza donde el usuario ingrese su nombre y de acuerdo a los kWh consumidos directamente el sistema le calcule si aplica un descuento o no de acuerdo a lo siguiente: 
 
