@@ -20,7 +20,7 @@ La estructura while permite evaluar la condición antes de entrar al bloque del 
 
 ✔**Pseudocódigo**
 
-<img width="567" height="469" alt="image" src="https://github.com/user-attachments/assets/4b8093d3-6d30-44bf-9ca2-173aecb22c02" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/4b8093d3-6d30-44bf-9ca2-173aecb22c02" />
 
 ---
 ## Estructura Hacer-Mientras
@@ -30,12 +30,12 @@ Dicha estructura se encarga de ejecutar el código que se encuentra dentro de la
 
 ✔**Diagrama de flujo**
 
-<img width="567" height="490" alt="image" src="https://github.com/user-attachments/assets/0dc76143-9c50-4562-9b98-ec343a0d6d31" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/0dc76143-9c50-4562-9b98-ec343a0d6d31" />
 
 
 ✔**Pseudocódigo**
 
-<img width="567" height="462" alt="image" src="https://github.com/user-attachments/assets/d6d4db1b-e790-4179-9afc-cec5cf43f627" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/d6d4db1b-e790-4179-9afc-cec5cf43f627" />
 
 ---
 ## Estructura Para
@@ -66,9 +66,9 @@ De igual forma que se pueden anidar o encajar estructuras de selección, es posi
 
 ✔**Diagrama de flujo**
 
-<img width="567" height="490" alt="image" src="https://github.com/user-attachments/assets/76e6d6e6-2f7d-44bb-abeb-9c8d7406f9a2" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/76e6d6e6-2f7d-44bb-abeb-9c8d7406f9a2" />
 
 ✔**Pseudocódigo**
 
-<img width="567" height="488" alt="image" src="https://github.com/user-attachments/assets/d190de2c-4de0-4368-ad84-ad8b00d423ac" />
+<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/d190de2c-4de0-4368-ad84-ad8b00d423ac" />
 
