@@ -17,9 +17,7 @@ El programa debe mostrar al 	cliente lo siguiente:
 
 •	El valor neto a pagar.
 
-✔**ANÁLISIS DEL PROBLEMA
-
-## 2. Análisis del Problema
+✔**ANÁLISIS DEL PROBLEMA**
 
 | Datos de Entrada | Proceso | Datos de Salida |
 | :--- | :--- | :--- |
@@ -28,3 +26,8 @@ El programa debe mostrar al 	cliente lo siguiente:
 | | **Condición de Descuento (Si consumo > 300):**<br>Descuento = valor bruto * 0.10 | **Descuento** |
 | | **Cálculo neto:**<br>Valor neto = valor bruto - descuento | **Valor neto** |
 
+✔**DISEÑO DEL ALGORITMO**
+
+✔**CODIFICACIÓN**
+
+✔**VALIDACIÓN**
