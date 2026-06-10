@@ -72,3 +72,5 @@ De igual forma que se pueden anidar o encajar estructuras de selección, es posi
 
 <img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/d190de2c-4de0-4368-ad84-ad8b00d423ac" />
 
+
+
