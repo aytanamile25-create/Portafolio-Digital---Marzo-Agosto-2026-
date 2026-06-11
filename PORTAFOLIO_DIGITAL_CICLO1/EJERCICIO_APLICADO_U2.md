@@ -1,6 +1,7 @@
 
 ✔**PLANTEAMIENTO DEL PROBLEMA**
 
+Diseñar e implementar un programa en lenguaje C que evalúe un número entero positivo ingresado por el usuario para determinar si es primo o no. El sistema deberá contabilizar cuántas veces el número es divisible de manera exacta de forma secuencial y, con base en este resultado, emitir el mensaje si es primo o no.
 
 ✔**ANÁLISIS DEL PROBLEMA**
 
