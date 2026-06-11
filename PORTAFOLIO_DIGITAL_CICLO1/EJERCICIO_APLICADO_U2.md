@@ -9,6 +9,7 @@ Diseñar e implementar un programa en lenguaje C que evalúe un número entero p
 
 ✔**DISEÑO DEL ALGORITMO**
 
+<img width="789" height="489" alt="image" src="https://github.com/user-attachments/assets/a8e659ef-3ab9-44eb-bd0f-9f4175f3389f" />
 
 ✔**CODIFICACIÓN**
 
