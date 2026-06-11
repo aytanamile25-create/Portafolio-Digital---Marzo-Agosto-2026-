@@ -5,7 +5,14 @@ Diseñar e implementar un programa en lenguaje C que evalúe un número entero p
 
 ✔**ANÁLISIS DEL PROBLEMA**
 
+### Prueba de Escritorio (Valor ingresado: i = 3)
 
+| ENTRADA | PROCESO | SALIDA | 
+| :---: | :---: | :---: | 
+| **Inicio** | **Se uso estructuras coondicionales como proceso con estructuras repetitivas lo cual son útiles para el proceso de la división del número para el contador, en este caso el contador va aunmentando hasta que se igual al numero ingresado**| **En la salida se uso if -  else porque dicha estructura ayuda a evaluar que si es divisible para 2 es primo de lo contrario no es primo**|  
+| **a** | for | - | 
+| **i** | if | - | 
+| **división = 0** | if - else| El número es primo o El número no es primo| 
 
 ✔**DISEÑO DEL ALGORITMO**
 
