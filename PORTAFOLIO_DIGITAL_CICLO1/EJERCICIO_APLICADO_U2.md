@@ -43,7 +43,7 @@ Diseñar e implementar un programa en lenguaje C que evalúe un número entero p
 | |**5** | **10/5 = 2 == 0**| |
 | | **6** | **10/6 = 1.66 ! = 0**| |
 |  | **7**| **10/7 = 1.43 ! = 0** | |
-|  | **8** | ** 10/8 = 1.25 ! = 0**||
+|  | **8** | **10/8 = 1.25 ! = 0**||
 |  | **9** | **10/9 = 1.11 ! = 0**| |
 |  | **10** | **10/10 = 1 == 0**||
 <img width="789" height="216" alt="image" src="https://github.com/user-attachments/assets/fb73722d-87a1-48e4-a62a-d482ff50ff82" />
