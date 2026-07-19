@@ -37,11 +37,11 @@
 
 <div align="justify">
   
-[1] L. Joyanes Aguilar, Fundamentos de Programación: Algoritmos, Estructuras de Datos y Objetos, 5ta ed. Madrid, España: McGraw-Hill, 2020.
+[1] L. Joyanes Aguilar, *Fundamentos de Programación: Algoritmos, Estructuras de Datos y Objetos*, 5ta ed. Madrid, España: McGraw-Hill, 2020.
 
-[2] R. A. García-Mendoza y M. A. Pérez-Castillo, Introducción a la Algoritmia y Estructuras de Control en la Ingeniería, 2da ed. Bogotá, Colombia: Ediciones de la U, 2022.
+[2] R. A. García-Mendoza y M. A. Pérez-Castillo, *Introducción a la Algoritmia y Estructuras de Control en la Ingeniería*, 2da ed. Bogotá, Colombia: Ediciones de la U, 2022.
 
-[3] J. A. Castrillón Mazo, Lógica de Programación Aplicada: Estructuras Secuenciales, Decisiones y Ciclos, 1ra ed. Medellín, Colombia: Instituto Tecnológico Metropolitano, 2023.
+[3] J. A. Castrillón Mazo, *Lógica de Programación Aplicada: Estructuras Secuenciales, Decisiones y Ciclos*, 1ra ed. Medellín, Colombia: Instituto Tecnológico Metropolitano, 2023.
 
 </div>
 
