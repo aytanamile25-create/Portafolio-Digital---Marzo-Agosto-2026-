@@ -14,7 +14,7 @@
 
 [**📁 EJERCICIO APLICADO U2**](./EJERCICIO_APLICADO_U2.md)
 
-[REFLEXIÓN PERSONAL](#reflexion-personal)
+[**REFLEXIÓN PERSONAL**](#reflexion-personal)
 
 ---
 **REFLEXIÓN PERSONAL**
