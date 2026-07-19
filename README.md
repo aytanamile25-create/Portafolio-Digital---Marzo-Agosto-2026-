@@ -23,5 +23,5 @@
 <img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/0c536324-1ce2-4c75-8386-04cf671f00a5" />
 
 **Bienvenido a mi portafolio digital, aqui podrás encontrar mis trabajos y proyectos correspondiente al primer ciclo Para ver el contenido detallado, haz clic aquí:**  
-[📁 PORTAFOLIO_DIGITAL_CICLO1](./README.md)
+[📁 PORTAFOLIO_DIGITAL_CICLO1](./README1.md)
 
