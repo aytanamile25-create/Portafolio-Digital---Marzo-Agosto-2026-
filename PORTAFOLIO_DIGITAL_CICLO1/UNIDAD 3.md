@@ -15,5 +15,5 @@
 [**📁 EJERCICIO APLICADO U2**](./EJERCICIO_APLICADO_U2.md)
 
 ---
-[**📁 REGRESAR**](./README1.md)
+[**📁 REGRESAR**](./README.md)
 
