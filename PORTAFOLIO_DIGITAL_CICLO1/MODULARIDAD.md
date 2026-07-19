@@ -1,6 +1,7 @@
 <div align="center">
   
 **📌MODULARIDAD**
+
 [Funciones](#funciones)
   
 [Tipos de funciones](#Tipos-de-funciones)
