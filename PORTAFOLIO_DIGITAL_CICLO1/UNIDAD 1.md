@@ -102,4 +102,4 @@ La inteligencia artificial se ha convertido en una herramienta fundamental en la
 
 ----
 
-[**📁 REGRESAR**](./README1.md)
+[**📁 REGRESAR**](./README.md)
