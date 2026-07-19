@@ -12,8 +12,5 @@
 
 [**📁 ARREGLOS**](./ARREGLOS.md)
 
-
-
----
 [**📁 REGRESAR**](./README.md)
 
