@@ -1,56 +1,46 @@
-tomáticamente un bloque de código especificio de lo contrario siendo falso ignora el bloque.
-
-✔**Diagrama de flujo**
-
-<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/b0c88035-6b46-49dd-873e-b1ee160a6bde" />
-
-✔**Pseudocódigo**
-
-<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/3024599f-fc8c-4d46-a238-f6e76d4839a7" />
-
----
-## Estructuras Condicionales Dobles
-💻 **If-Else**
-
-Si entonces / si no, un fundamental para la toma de decisiones dentro de un programa. Es una estructura que permite la escoger dos caminos ejecutando de acuerdo a la condición ingresada si es verdadera lo ejecuta de lo contrario si es falsa el programa tomara otras
-alternativas Sirve para controlar el flujo de ejecución. Sin ella, la aplicación sería fijo y no tuviera la posibilidad de ejecutar a
-diferentes datos.
-
-✔**Diagrama de flujo**
-
-<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/e7cd9a46-a5ef-49a3-8ff3-a040dc5e7f58" />
-
-✔**Pseudocódigo**
-
-<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/899c727a-0d23-4c7e-8149-6bdf607aada9" />
-
----
-## Estructuras Condicionales Múltiples 
-💻**Switch-Case** 
-
-Conocido como (switch – case ) a diferencia de if-else, esta estructura funciona como un menú. No evalua directamente si es verdadero o falso como en los otros casos anteriores sino que toma una variable y la compara con una lista de valores posibles (case), tiene mas opciones para una misma variable. Sirve para simplificar el código cuando una sola variable puede tomar múltiples valores específicos.
-
-✔**Diagrama de flujo**
-
-<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/20e0e37e-8630-4055-8400-508e5ecc592f" />
-
-✔**Pseudocódigo**
-
-<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/3983caaf-454f-438c-b978-24dc75371079" />
+<div align="center">
+  
+**📌MODULARIDAD**
+* [Funciones](#funciones)
+* [Tipos de funciones](#Tipo-de-funciones)
+  
+**Cuando tenemos algoritmos largos y complejos, una técnica para reducir la complejidad es dividir el programa grande en subprogramas pequeños (divide y vencerás). En programación, a esta técnica se la conoce como modularización (paradigma de programación). Estos módulos reciben el nombre de: procesos, funciones, rutinas, sub-rutinas, etcétera.**
 
 ---
 
-## Anidamiento de Estructuras de Condicionales
-También llamada Estructura Condicional en Cascada. Encontramos numerosos casos en el desarrollo de la solución de problemas en el que luego de tomar una decisión y marcar el camino correspondiente a seguir, es necesario tomar otra decisión.
+## Funciones
 
-✔**Diagrama de flujo**
+- Una función es un conjunto de sentencias que realiza una tarea determinada, responde a un propósito único e identificable. En el lenguaje se puede determinar dos tipos de funciones las que están predeterminadas por el lenguaje, por ejemplo, librerías #include <stdio.h>, y las que están definidas por el desarrollador.
+  
+- Consta básicamente de dos partes: una línea llamada cabecera, donde se especifica el tipo del resultado que devuelve, el nombre de la función y los parámetros que recibe, y un conjunto de sentencias encerradas entre llaves que forman el cuerpo de la función y el valor de retorno.
 
-<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/aefb0ee6-3b7b-49a7-94d6-d4ae78f35c93" />
+- No pueden ejecutarse por sí solas, estas deben estar ancladas a un programa principal (ejemplo main). Las funciones solicitadas por el main a su vez pueden llamar a otras funciones.
 
+<img width="430" height="400" alt="image" src="https://github.com/user-attachments/assets/fa576ce5-0ddd-4428-a3c1-069a529050f0" />
 
-✔**Pseudocódigo**
+---
 
-<img width="567" height="489" alt="image" src="https://github.com/user-attachments/assets/1230fc89-64b9-4cd8-996e-31dd20bc57ce" />
+- Funciones con retorno de valor.
+
+<img width="430" height="400" alt="image" src="https://github.com/user-attachments/assets/44f56ea0-495e-4229-911e-3f5148e73392" />
+
+- Funciones sin valor de retorno ni paso de parámetros.
+
+<img width="430" height="169" alt="image" src="https://github.com/user-attachments/assets/9609ee92-fab2-4295-9e50-dc351af28dea" />
+
+---
+
+## Tipos de funciones
+
+**Funciones con envío de parámetros**
+
+- Enviado por valor, se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
+
+<img width="314" height="259" alt="image" src="https://github.com/user-attachments/assets/560b79a8-ef32-497e-b6b3-c0d911c65699" />
+
+- Envío por referencia, se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
+
+<img width="345" height="265" alt="image" src="https://github.com/user-attachments/assets/de6f8405-f93f-46e3-9288-8a7bde3dbaa5" />
 
 [**🔙 REGRESAR**](./UNIDAD%202.md)
 
