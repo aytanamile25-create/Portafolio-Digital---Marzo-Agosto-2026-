@@ -12,7 +12,6 @@
 *  [📍 Introducción](#introducción)
 *  [📍 Contenido de aprendizaje](#contenido-de-aprendizaje)
 *  [📍 Conclusiones generales](#conclusiones-generales)
-*  [📍Reflexón general](#reflexión-general)
 *  [📍 Bibliografías](#bibliografías)
 *  [📍 Declaración de IA](#declaración-de-ia)
 ---
@@ -30,10 +29,10 @@
 
 ---
 
-**Conclusiones generales**
+## Conclusiones generales
 
 ---
-**Bibliografías**
+## Bibliografías
 
 <div align="justify">
   
@@ -46,7 +45,8 @@
 </div>
 
 ---
-## DECLARACIÓN DE LA IA
+
+## Declaración de IA
 
 <div align="justify">
   
