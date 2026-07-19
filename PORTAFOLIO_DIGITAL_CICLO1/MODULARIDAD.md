@@ -2,9 +2,9 @@
   
 **📌MODULARIDAD**
 
-[Funciones](#funciones)
+[**Funciones**](#funciones)
   
-[Tipos de funciones](#Tipos-de-funciones)
+[**Tipos de funciones**](#Tipos-de-funciones)
   
 **Cuando tenemos algoritmos largos y complejos, una técnica para reducir la complejidad es dividir el programa grande en subprogramas pequeños (divide y vencerás). En programación, a esta técnica se la conoce como modularización (paradigma de programación). Estos módulos reciben el nombre de: procesos, funciones, rutinas, sub-rutinas, etcétera.**
 
@@ -44,5 +44,5 @@
 
 <img width="345" height="265" alt="image" src="https://github.com/user-attachments/assets/de6f8405-f93f-46e3-9288-8a7bde3dbaa5" />
 
-[**🔙 REGRESAR**](./UNIDAD%202.md)
+[**🔙 REGRESAR**](./UNIDAD%203.md)
 
