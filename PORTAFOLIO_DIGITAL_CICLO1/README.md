@@ -35,6 +35,8 @@
 ---
 **Bibliografías**
 
+<div align="justify">
+  
 [1] L. Joyanes Aguilar, Fundamentos de Programación: Algoritmos, Estructuras de Datos y Objetos, 5ta ed. Madrid, España: McGraw-Hill, 2020.
 
 [2] R. A. García-Mendoza y M. A. Pérez-Castillo, Introducción a la Algoritmia y Estructuras de Control en la Ingeniería, 2da ed. Bogotá, Colombia: Ediciones de la U, 2022.
@@ -43,10 +45,18 @@
 
 ---
 ## DECLARACIÓN DE LA IA
+
+<div align="justify">
+  
 - La inteligencia artificial se ha convertido en una herramienta fundamental en la sociedad contemporánea, permitiendo optimizar            procesos, mejorar la toma de decisiones y automatizar tareas en diversos campos como la salud, la educación y la industria. Sin
   embargo, su uso responsable requiere considerar aspectos éticos como la privacidad, la transparencia y el impacto en el empleo,           garantizando que su desarrollo beneficie a la humanidad de manera equitativa y sostenible.
 
+<div align="justify">
+
 - Durante del desarrollo de mi portafolio en la unidad 2 hice uso de la IA para generar los códigos correspondientes para modificación de   textos, títulos, insertar las subacarpetas que contiene los temas de la unidad con la finalidad que mi portafolio se visualice de forma   ordenada y creativo.
 
+<div align="justify">
+
 ---
+
 [**📁 REGRESAR**](./README.md)
