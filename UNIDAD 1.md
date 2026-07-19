@@ -99,3 +99,7 @@ Durante la unidad se aprendio lo básico para utilizar programas como pseint, vi
 ## 9. Declaración de IA
 
 La inteligencia artificial se ha convertido en una herramienta fundamental en la sociedad contemporánea, permitiendo optimizar procesos, mejorar la toma de decisiones y automatizar tareas en diversos campos como la salud, la educación y la industria. Sin embargo, su uso responsable requiere considerar aspectos éticos como la privacidad, la transparencia y el impacto en el empleo, garantizando que su desarrollo beneficie a la humanidad de manera equitativa y sostenible.
+
+----
+
+[**📁 REGRESAR**](./README1.md)
