@@ -7,14 +7,14 @@
 ### CICLO 1 
 ## 📑 Contenido de la Unidad 1
 
-* [1. Algorítmos](#1-algoritmos)
-* [2. Pseudocódigos](#2-pseudocódigos)
-* [3.  Diagrama de flujo](#3-diagrama-de-flujo)
-* [4. Prueba de escritorio](#4-prueba-de-escritorio)
-* [5. Lenguaje de programación](#5-lenguaje-de-programación)
-* [6. Prograación por bloque](#6-prograación-por-bloque)
-* [7. Ejercicio aplicado](#7-ejercicio-aplicado)
-* [8. Reflexión personal](#8-reflexión-personal)
+ [1. Algorítmos](#1-algoritmos)
+ [2. Pseudocódigos](#2-pseudocódigos)
+ [3.  Diagrama de flujo](#3-diagrama-de-flujo)
+ [4. Prueba de escritorio](#4-prueba-de-escritorio)
+ [5. Lenguaje de programación](#5-lenguaje-de-programación)
+ [6. Prograación por bloque](#6-prograación-por-bloque)
+ [7. Ejercicio aplicado](#7-ejercicio-aplicado)
+ [8. Reflexión personal](#8-reflexión-personal)
   
 ---
 ## 1. Algoritmos
