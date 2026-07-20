@@ -22,11 +22,11 @@
 
 ---
 
-- Funciones con retorno de valor.
+✔**Funciones con retorno de valor.**
 
 <img width="430" height="400" alt="image" src="https://github.com/user-attachments/assets/44f56ea0-495e-4229-911e-3f5148e73392" />
 
-- Funciones sin valor de retorno ni paso de parámetros.
+✔**Funciones sin valor de retorno ni paso de parámetros.**
 
 <img width="430" height="169" alt="image" src="https://github.com/user-attachments/assets/9609ee92-fab2-4295-9e50-dc351af28dea" />
 
@@ -34,13 +34,13 @@
 
 ## Tipos de funciones
 
-**Funciones con envío de parámetros**
+✔**Funciones con envío de parámetros**
 
-- Enviado por valor, se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
+- **Enviado por valor:** Se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
 
 <img width="314" height="259" alt="image" src="https://github.com/user-attachments/assets/560b79a8-ef32-497e-b6b3-c0d911c65699" />
 
-- Envío por referencia, se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
+- **Envío por referencia:** Se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
 
 <img width="345" height="265" alt="image" src="https://github.com/user-attachments/assets/de6f8405-f93f-46e3-9288-8a7bde3dbaa5" />
 
