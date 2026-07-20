@@ -1,10 +1,13 @@
 <div align="center">
   
 **📌ESTRUCTURAS REPETITIVAS**
-* [Estructura Mientras](#estructura-mientras)
-* [Estructura Hacer-Mientras ](#estructura-hacer-mientras)
-* [Estructura Para](#estructura-para)
-* [Anidamiento de Estructuras Repetitivas](#anidamiento-de-estructuras-reptitivas)
+ [Estructura Mientras](#estructura-mientras)
+ 
+ [Estructura Hacer-Mientras ](#estructura-hacer-mientras)
+
+ [Estructura Para](#estructura-para)
+ 
+ [Anidamiento de Estructuras Repetitivas](#anidamiento-de-estructuras-reptitivas)
   
 **Las estructuras repetitivas permiten repetir un número determinado de veces un grupo de sentencias o instrucciones, o hasta que se cumpla una condición.**
 
