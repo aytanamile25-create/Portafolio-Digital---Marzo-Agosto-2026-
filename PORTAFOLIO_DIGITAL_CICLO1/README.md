@@ -36,9 +36,17 @@
 
 ## Conclusiones generales
 
+<div align="justify">
+
 - A lo largo de este primer ciclo, el aprendizaje avanzó de manera progresiva desde las bases de la lógica algorítmica y la representación mediante pseudocódigos y diagramas de flujo en la Unidad 1, hasta el dominio del control de flujo mediante estructuras condicionales y repetitivas en la Unidad 2, culminando en la Unidad 3 con el desarrollo de código eficiente a través de la modularidad y el manejo de arreglos. Comprender estos temas fue fundamental para pasar de una resolución intuitiva de problemas a la construcción organizada de algoritmos, fortaleciéndome en la abstracción y estructuración lógica que caracteriza el pensamiento computacional.
 
+</div>
+
+<div align="justify">
+  
 - Como futuro ingeniero en computación, este núcleo temático constituirá el cimiento para abordar asignaturas más avanzadas como estructuras de datos, programación orientada a objetos y arquitectura de software. Saber descomponer un problema en módulos, optimizar procesos iterativos y gestionar datos en memoria no solo me permitirá escribir código funcional, sino también diseñar soluciones de software escalables, limpias y profesionales ante cualquier reto de la industria tecnológica.
+
+</div>
 
 ---
 ## Bibliografías
