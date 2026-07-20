@@ -10,10 +10,15 @@
 #### 📌 Índice de Contenidos
 
   [📍 Introducción](#introducción)
+  
   [📍 Contenido de aprendizaje](#contenido-de-aprendizaje)
+  
   [📍 Conclusiones generales](#conclusiones-generales)
+  
   [📍 Bibliografías](#bibliografías)
+  
   [📍 Declaración de IA](#declaración-de-ia)
+  
 ---
 **Introducción**
 ---
