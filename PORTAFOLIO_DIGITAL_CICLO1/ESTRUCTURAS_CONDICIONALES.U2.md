@@ -1,6 +1,7 @@
 <div align="center">
   
 **📌ESTRUCTURAS CONDICIONALES**
+
  [Estructura Condicional Simple](#estructura-condicional-simple)
  
  [Estructura Condicional Doble](#estructura-condicional-doble)
