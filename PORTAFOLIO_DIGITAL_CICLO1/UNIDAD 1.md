@@ -7,24 +7,24 @@
 ### CICLO 1 
 ## 📑 Contenido de la Unidad 1
 
- [1. Algorítmos](#1-algoritmos)
+ [📁 Algorítmos](#1-algoritmos)
  
- [2. Pseudocódigos](#2-pseudocódigos)
+ [📁 Pseudocódigos](#2-pseudocódigos)
 
- [3.  Diagrama de flujo](#3-diagrama-de-flujo)
+ [📁  Diagrama de flujo](#3-diagrama-de-flujo)
  
- [4. Prueba de escritorio](#4-prueba-de-escritorio)
+ [📁 Prueba de escritorio](#4-prueba-de-escritorio)
  
- [5. Lenguaje de programación](#5-lenguaje-de-programación)
+ [📁Lenguaje de programación](#5-lenguaje-de-programación)
  
- [6. Prograación por bloque](#6-prograación-por-bloque)
+ [📁 Prograación por bloque](#6-prograación-por-bloque)
  
- [7. Ejercicio aplicado](#7-ejercicio-aplicado)
+ [📁 Ejercicio aplicado](#7-ejercicio-aplicado)
  
- [8. Reflexión personal](#8-reflexión-personal)
+ [📁 Reflexión personal](#8-reflexión-personal)
   
 ---
-## 1. Algoritmos
+## Algoritmos
 
   Son planteamientos finitos, ordenados y lógicos de instrucciones para resolver porblemas o tareas.
   Las caracteristicas principales de los algoritmos son los siguientes:
@@ -38,7 +38,7 @@
 <img width="248" height="122" alt="image" src="https://github.com/user-attachments/assets/1469f5cc-86ee-4047-86c4-9d5716f00ad2" />
 
 ---
-## 2. Pseudocódigos:
+## Pseudocódigos:
 
 Es un lenguaje natural y estructurado (español/ingles) pero con lógicas básicas de la programación. Sirve para ingresar algoritmos para coodificar y comprobar que todo este correcto para luego eescribirlos en un lenguaje de programaciín real. 
 
@@ -48,7 +48,7 @@ Es un lenguaje natural y estructurado (español/ingles) pero con lógicas básic
 
 ---
 
-## 3.  Diagrama de flujo
+## Diagrama de flujo
 
 Es una representación gráfica que permite visualizar un algoritmo de forma estructurada y organizada para mostrar paso a paso como se ejecuta una tarea. 
 El diagrama de flujo está estructurado por símbolos y flechas a continuación:
@@ -59,7 +59,7 @@ El diagrama de flujo está estructurado por símbolos y flechas a continuación:
 
  ---
 
- ## 4. Prueba de escritorio
+ ## Prueba de escritorio
 
 Simulación manual paso a paso de los algoritmos por medio de tablas donde cada columna van las variables y las filas se muestra los valores de acuerdo a la ejecución de una tarea. Su función es verificar el funcionamiento correcto de ejecución del algoritmo; detectar errores antes de llevar a una programación.
 
@@ -69,7 +69,7 @@ Simulación manual paso a paso de los algoritmos por medio de tablas donde cada 
 
 ---
 
-## 5. Lenguaje de programación
+## Lenguaje de programación
 Es un sistema formal de comunicación que incluye reglas, símbolos, sintaxis que permiten a los programadores comunicarse con las computadoras u otrso objetos tecnológicos para ordenar tareas y ejecutar. 
 Es útil para el desarrollo de aplicaciones, avamce tecnológicos y desarrollo de software.
 
@@ -79,7 +79,7 @@ Es útil para el desarrollo de aplicaciones, avamce tecnológicos y desarrollo d
 
 ---
 
-## 6. Prograación por bloques
+## Prograación por bloques
 Son pequeños programas llamado piezas gráficas (bloques) evitando realizar códigos de textos complejos, es como un rompecabezas si los bloques no encajan, el código no funciona, aporta mucho al aprendizaje de la lógica y estructura de la programación sin reglas estrictas. 
 
 **Ejemplo:**
@@ -88,14 +88,14 @@ Son pequeños programas llamado piezas gráficas (bloques) evitando realizar có
 
 ----
 
-## 7. Ejercicio aplicado
+## Ejercicio aplicado
 
 <img width="414" height="362" alt="image" src="https://github.com/user-attachments/assets/8bc440ad-5816-4ec3-912d-d1e3cb65aa1c" />
 
 <img width="412" height="249" alt="image" src="https://github.com/user-attachments/assets/09bee74f-c7e2-4d76-8676-f64e32b24e87" />
 
 ---
-## 8. Reflexión crítica
+## Reflexión crítica
 
 Durante la unidad se aprendio lo básico para utilizar programas como pseint, visual studio code. La práctica dentro de clases con el docente ayudo mucho al aprendizaje para comprender mejor y con facilidad ya que veiamos teoria y luego a practica en clases. He concluido que La programación no es solo memorizar comandos, sino desarrollar la capacidad de resolver problemas con eficiencia, comprender la lógica. 
 
