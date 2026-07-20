@@ -10,8 +10,8 @@
 
 ## Arreglos
 
-- Es una estructura de datos estática y homogénea que almacena una colección finita de elementos del mismo tipo bajo un identificador común. Su diseño se basa en la      asignación de un bloque de memoria contiguo, lo que permite el acceso aleatorio a los datos en tiempo constante mediante el cálculo de direcciones indexadas.
-  Al ser una estructura de dimensión fija, su tamaño físico debe ser definido rigurosamente durante la etapa de compilación del software. El direccionamiento de sus      componentes se gestiona a través de un índice numérico que representa el desplazamiento respecto a la dirección base en la memoria.
+**Es una estructura de datos estática y homogénea que almacena una colección finita de elementos del mismo tipo bajo un identificador común. Su diseño se basa en la      asignación de un bloque de memoria contiguo, lo que permite el acceso aleatorio a los datos en tiempo constante mediante el cálculo de direcciones indexadas.
+Al ser una estructura de dimensión fija, su tamaño físico debe ser definido rigurosamente durante la etapa de compilación del software. El direccionamiento de sus      componentes se gestiona a través de un índice numérico que representa el desplazamiento respecto a la dirección base en la memoria.**
 
 <img width="430" height="320" alt="image" src="https://github.com/user-attachments/assets/f1154dd0-23d5-453a-9b17-f3f96af4900f" />
 
@@ -28,8 +28,12 @@
 
 ✔**Bidimensional**
 
-- Esta estructura multidimensional, conocida en el ámbito de la ingeniería como matriz o tabla, organiza los elementos en un plano bidireccional. Su abstracción lógica emula una cuadrícula matemática definida por dos ejes vectoriales ortogonales, los cuales representan un conjunto de filas y columnas. Para realizar la localización o manipulación de un dato, el sistema operativo exige obligatoriamente la declaración de dos coordenadas numéricas independientes. En la sintaxis de programación, el primer descriptor determina el índice de la fila y el segundo especifica la columna, procesándose mediante ciclos anidados.
+<h3 align="center">✔ Bidimensional</h3>
 
+- Esta estructura bidimensional, conocida en el ámbito de la ingeniería como matriz o tabla, organiza los elementos en un plano bidireccional. Su abstracción lógica emula una cuadrícula matemática definida por dos ejes vectoriales ortogonales, los cuales representan un conjunto de filas y columnas. Para realizar la localización o manipulación de un dato, el sistema operativo exige obligatoriamente la declaración de dos coordenadas numéricas independientes. En la sintaxis de programación, el primer descriptor determina el índice de la fila y el segundo especifica la columna, procesándose mediante ciclos anidados.
+
+<p align="center">
+  
 <img width="430" height="180" alt="image" src="https://github.com/user-attachments/assets/222dbe8a-5790-4ca5-b6f4-f0bac053dc5e" />
 
 ✔**Tridimensional**
