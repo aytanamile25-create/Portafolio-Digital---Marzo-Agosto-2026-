@@ -20,6 +20,7 @@
   [📍 Declaración de IA](#declaración-de-ia)
   
 ---
+
 **Introducción**
 
 <div align="justify">
