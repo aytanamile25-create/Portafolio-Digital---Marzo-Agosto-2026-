@@ -1,10 +1,13 @@
 <div align="center">
   
 **📌ESTRUCTURAS CONDICIONALES**
-* [Estructura Condicional Simple](#estructura-condicional-simple)
-* [Estructura Condicional Doble](#estructura-condicional-doble)
-* [Estructura Condicional Múltiple](#estructura-condicional-múltiple)
-* [Anidamiento de Estructuras de Condicionales](#anidamiento-de-estructuras-de-condicionales)
+ [Estructura Condicional Simple](#estructura-condicional-simple)
+ 
+ [Estructura Condicional Doble](#estructura-condicional-doble)
+ 
+ [Estructura Condicional Múltiple](#estructura-condicional-múltiple)
+ 
+ [Anidamiento de Estructuras de Condicionales](#anidamiento-de-estructuras-de-condicionales)
   
 **Son usados para seleccionar la ruta que debe tomar la ejecución de instrucciones de un algoritmo según la condición evaluada.**
 
