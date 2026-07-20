@@ -16,7 +16,7 @@
   
 - Consta básicamente de dos partes: una línea llamada cabecera, donde se especifica el tipo del resultado que devuelve, el nombre de la función y los parámetros que recibe, y un conjunto de sentencias encerradas entre llaves que forman el cuerpo de la función y el valor de retorno.
 
-- No pueden ejecutarse por sí solas, estas deben estar ancladas a un programa principal (ejemplo main). Las funciones solicitadas por el main a su vez pueden llamar a otras funciones.
+- No pueden ejecutarse por sí solas, estas deben estar ancladas a un programa principal. Las funciones solicitadas por el main a su vez pueden llamar a otras funciones.
 
 <img width="430" height="400" alt="image" src="https://github.com/user-attachments/assets/fa576ce5-0ddd-4428-a3c1-069a529050f0" />
 
