@@ -36,11 +36,11 @@
 
 ✔**Funciones con envío de parámetros**
 
-- **Enviado por valor:** Se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
+**Enviado por valor:** Es un mecanismo donde la función recibe únicamente una copia del dato contenido en la variable original. Debido a que el módulo trabaja sobre este duplicado en una ubicación de memoria independiente, cualquier modificación realizada internamente no altera la variable original. Resulta ideal para procesar datos garantizando la protección de la información de entrada.
 
 <img width="314" height="259" alt="image" src="https://github.com/user-attachments/assets/560b79a8-ef32-497e-b6b3-c0d911c65699" />
 
-- **Envío por referencia:** Se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
+**Envío por referencia:** Es un mecanismo mediante el cual la función recibe la dirección de memoria directa donde se aloja la variable original. Al operar directamente sobre esa ubicación, cualquier cambio o cálculo realizado dentro del módulo modificará de forma inmediata el valor real del programa. Es fundamental para manipular estructuras complejas o devolver múltiples resultados.
 
 <img width="345" height="265" alt="image" src="https://github.com/user-attachments/assets/de6f8405-f93f-46e3-9288-8a7bde3dbaa5" />
 
