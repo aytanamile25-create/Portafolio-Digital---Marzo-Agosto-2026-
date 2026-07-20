@@ -1,6 +1,7 @@
 <div align="center">
   
 **📌ESTRUCTURAS REPETITIVAS**
+
  [Estructura Mientras](#estructura-mientras)
  
  [Estructura Hacer-Mientras ](#estructura-hacer-mientras)
