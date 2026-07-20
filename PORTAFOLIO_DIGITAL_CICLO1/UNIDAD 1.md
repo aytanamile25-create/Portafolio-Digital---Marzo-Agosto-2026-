@@ -15,9 +15,7 @@
 * [6. Prograación por bloque](#6-prograación-por-bloque)
 * [7. Ejercicio aplicado](#7-ejercicio-aplicado)
 * [8. Reflexión personal](#8-reflexión-personal)
-* [9. Declaración IA](#9-declaración-ia)
   
-
 ---
 ## 1. Algoritmos
 
@@ -93,12 +91,6 @@ Son pequeños programas llamado piezas gráficas (bloques) evitando realizar có
 ## 8. Reflexión crítica
 
 Durante la unidad se aprendio lo básico para utilizar programas como pseint, visual studio code. La práctica dentro de clases con el docente ayudo mucho al aprendizaje para comprender mejor y con facilidad ya que veiamos teoria y luego a practica en clases. He concluido que La programación no es solo memorizar comandos, sino desarrollar la capacidad de resolver problemas con eficiencia, comprender la lógica. 
-
----
-
-## 9. Declaración de IA
-
-La inteligencia artificial se ha convertido en una herramienta fundamental en la sociedad contemporánea, permitiendo optimizar procesos, mejorar la toma de decisiones y automatizar tareas en diversos campos como la salud, la educación y la industria. Sin embargo, su uso responsable requiere considerar aspectos éticos como la privacidad, la transparencia y el impacto en el empleo, garantizando que su desarrollo beneficie a la humanidad de manera equitativa y sostenible.
 
 ----
 
