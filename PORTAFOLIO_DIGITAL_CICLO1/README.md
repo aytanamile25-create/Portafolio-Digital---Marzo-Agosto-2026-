@@ -21,6 +21,19 @@
   
 ---
 **Introducción**
+
+<div align="justify">
+  
+- El presente portafolio digital consolida el recorrido académico y práctico desarrollado en el primer ciclo de Ingeniería en Computación. A través de este documento, se evidencia la evolución progresiva en la comprensión de la lógica y el diseño de soluciones estructuradas para el desarrollo de software. El contenido inicia formalmente en la Unidad 1 con los conceptos fundamentales de los algoritmos, el uso técnico del pseudocódigo y la representación gráfica mediante diagramas de flujo.
+
+</div>
+
+<div align="justify">
+  
+- La transición hacia una programación más avanzada se presenta a partir de la Unidad 2 con el estudio detallado del control de flujo mediante estructuras condicionales y repetitivas. Finalmente, la Unidad 3 introduce la optimización de código mediante la modularidad y el almacenamiento organizado en arreglos de datos. En conjunto, estas tres unidades representan la base analítica esencial que guiará el diseño de sistemas computacionales complejos en el futuro.
+
+</div>
+
 ---
 **Contenido de aprendizaje**
 ---
