@@ -3,7 +3,6 @@
 
 
 # UNIVERSIDAD NACIONAL DE LOJA
-## CICLO 1 
 ## 📑 Contenido de la Unidad 3
 
 **Haga click aqui para ver los contenidos**
