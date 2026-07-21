@@ -32,9 +32,21 @@
 
 ✔**Funciones con retorno de valor.**
 
+<div align="justify">
+  
+Es un bloque de código diseñado para procesar datos y devolver un resultado al programa principal mediante la palabra clave return. El valor devuelto debe coincidir con el tipo de dato especificado en la declaración de la función (como int, float, string, etc.). Este dato devuelto puede ser almacenado en una variable o reutilizado directamente en otras operaciones o expresiones.
+
+</div>
+
 <img width="430" height="400" alt="image" src="https://github.com/user-attachments/assets/44f56ea0-495e-4229-911e-3f5148e73392" />
 
 ✔**Funciones sin valor de retorno ni paso de parámetros.**
+
+<div align="justify">
+  
+Es una función declarada con el tipo void que ejecuta una serie de instrucciones o tareas específicas sin recibir ninguna información del exterior. Al no tener parámetros entre sus paréntesis (), trabaja de forma completamente autónoma con datos propios o globales. Además, al finalizar su ejecución no devuelve ningún resultado al programa invocador, finalizando sin usar la sentencia return.
+
+</div>
 
 <img width="430" height="169" alt="image" src="https://github.com/user-attachments/assets/9609ee92-fab2-4295-9e50-dc351af28dea" />
 
