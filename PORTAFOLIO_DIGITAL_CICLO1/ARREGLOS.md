@@ -31,7 +31,10 @@ Al ser una estructura de dimensión fija, su tamaño físico debe ser definido r
 
 </div>
 
-<img width="430" height="180" alt="image" src="https://github.com/user-attachments/assets/968bcfc8-487c-4ea7-b7a7-961b5db0bc43" />
+<img width="430" height="520" alt="image" src="https://github.com/user-attachments/assets/48f048c6-6a91-48f9-b455-1a0393eec8b0" />
+
+
+
 
 
 ✔**Bidimensional**
@@ -42,7 +45,8 @@ Al ser una estructura de dimensión fija, su tamaño físico debe ser definido r
 
   </div>
   
-<img width="430" height="180" alt="image" src="https://github.com/user-attachments/assets/222dbe8a-5790-4ca5-b6f4-f0bac053dc5e" />
+<img width="430" height="520" alt="image" src="https://github.com/user-attachments/assets/19675e65-8b1e-4994-b854-219a5ff70d48" />
+
 
 ✔**Tridimensional**
 
