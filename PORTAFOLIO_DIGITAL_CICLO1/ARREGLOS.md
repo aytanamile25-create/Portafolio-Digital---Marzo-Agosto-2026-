@@ -58,7 +58,8 @@ Al ser una estructura de dimensión fija, su tamaño físico debe ser definido r
 
 <img width="430" height="520" alt="image" src="https://github.com/user-attachments/assets/04ff6936-611a-4fb8-b553-16162bfc0367" /> <br>
 
-<img width="430" height="300" alt="image" src="https://github.com/user-attachments/assets/339de894-48ba-4b75-831f-52fe7a887b18" />
+<img width="430" height="300" alt="image" src="https://github.com/user-attachments/assets/da07360e-ca5f-4a1f-968b-40681a7cdd74" />
+
 
 
 
