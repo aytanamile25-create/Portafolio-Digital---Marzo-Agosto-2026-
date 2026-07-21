@@ -28,11 +28,10 @@ Al ser una estructura de dimensión fija, su tamaño físico debe ser definido r
 
 ✔**Bidimensional**
 
-<h3 align="center">
 
 - Esta estructura bidimensional, conocida en el ámbito de la ingeniería como matriz o tabla, organiza los elementos en un plano bidireccional. Su abstracción lógica emula una cuadrícula matemática definida por dos ejes vectoriales ortogonales, los cuales representan un conjunto de filas y columnas. Para realizar la localización o manipulación de un dato, el sistema operativo exige obligatoriamente la declaración de dos coordenadas numéricas independientes. En la sintaxis de programación, el primer descriptor determina el índice de la fila y el segundo especifica la columna, procesándose mediante ciclos anidados.
 
-<p align="center">
+
   
 <img width="430" height="180" alt="image" src="https://github.com/user-attachments/assets/222dbe8a-5790-4ca5-b6f4-f0bac053dc5e" />
 
