@@ -4,7 +4,6 @@
 
 # UNIVERSIDAD NACIONAL DE LOJA
 ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
-### CICLO 1 
 ## 📑 Contenido de la Unidad 1
 
  [📁 Algorítmos](#1-algoritmos)
