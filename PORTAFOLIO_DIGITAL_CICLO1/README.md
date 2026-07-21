@@ -25,13 +25,13 @@
 
 <div align="justify">
   
-- El presente portafolio digital consolida el recorrido académico y práctico desarrollado en el primer ciclo de Ingeniería en Computación. A través de este documento, se evidencia la evolución progresiva en la comprensión de la lógica y el diseño de soluciones estructuradas para el desarrollo de software. El contenido inicia formalmente en la Unidad 1 con los conceptos fundamentales de los algoritmos, el uso técnico del pseudocódigo y la representación gráfica mediante diagramas de flujo.
+ El presente portafolio digital consolida el recorrido académico y práctico desarrollado en el primer ciclo de Ingeniería en Computación. A través de este documento, se evidencia la evolución progresiva en la comprensión de la lógica y el diseño de soluciones estructuradas para el desarrollo de software. El contenido inicia formalmente en la Unidad 1 con los conceptos fundamentales de los algoritmos, el uso técnico del pseudocódigo y la representación gráfica mediante diagramas de flujo.
 
 </div>
 
 <div align="justify">
   
-- La transición hacia una programación más avanzada se presenta a partir de la Unidad 2 con el estudio detallado del control de flujo mediante estructuras condicionales y repetitivas. Finalmente, la Unidad 3 introduce la optimización de código mediante la modularidad y el almacenamiento organizado en arreglos de datos. En conjunto, estas tres unidades representan la base analítica esencial que guiará el diseño de sistemas computacionales complejos en el futuro.
+ La transición hacia una programación más avanzada se presenta a partir de la Unidad 2 con el estudio detallado del control de flujo mediante estructuras condicionales y repetitivas. Finalmente, la Unidad 3 introduce la optimización de código mediante la modularidad y el almacenamiento organizado en arreglos de datos. En conjunto, estas tres unidades representan la base analítica esencial que guiará el diseño de sistemas computacionales complejos en el futuro.
 
 </div>
 
@@ -52,13 +52,13 @@
 
 <div align="justify">
 
-- A lo largo de este primer ciclo, el aprendizaje avanzó de manera progresiva desde las bases de la lógica algorítmica y la representación mediante pseudocódigos y diagramas de flujo en la Unidad 1, hasta el dominio del control de flujo mediante estructuras condicionales y repetitivas en la Unidad 2, culminando en la Unidad 3 con el desarrollo de código eficiente a través de la modularidad y el manejo de arreglos. Comprender estos temas fue fundamental para pasar de una resolución intuitiva de problemas a la construcción organizada de algoritmos, fortaleciéndome en la abstracción y estructuración lógica que caracteriza el pensamiento computacional.
+ A lo largo de este primer ciclo, el aprendizaje avanzó de manera progresiva desde las bases de la lógica algorítmica y la representación mediante pseudocódigos y diagramas de flujo en la Unidad 1, hasta el dominio del control de flujo mediante estructuras condicionales y repetitivas en la Unidad 2, culminando en la Unidad 3 con el desarrollo de código eficiente a través de la modularidad y el manejo de arreglos. Comprender estos temas fue fundamental para pasar de una resolución intuitiva de problemas a la construcción organizada de algoritmos, fortaleciéndome en la abstracción y estructuración lógica que caracteriza el pensamiento computacional.
 
 </div>
 
 <div align="justify">
   
-- Como futuro ingeniero en computación, este núcleo temático constituirá el cimiento para abordar asignaturas más avanzadas como estructuras de datos, programación orientada a objetos y arquitectura de software. Saber descomponer un problema en módulos, optimizar procesos iterativos y gestionar datos en memoria no solo me permitirá escribir código funcional, sino también diseñar soluciones de software escalables, limpias y profesionales ante cualquier reto de la industria tecnológica.
+ Como futuro ingeniero en computación, este núcleo temático constituirá el cimiento para abordar asignaturas más avanzadas como estructuras de datos, programación orientada a objetos y arquitectura de software. Saber descomponer un problema en módulos, optimizar procesos iterativos y gestionar datos en memoria no solo me permitirá escribir código funcional, sino también diseñar soluciones de software escalables, limpias y profesionales ante cualquier reto de la industria tecnológica.
 
 </div>
 
@@ -81,14 +81,14 @@
 
 <div align="justify">
   
-- La inteligencia artificial se ha convertido en una herramienta fundamental en la sociedad contemporánea, permitiendo optimizar            procesos, mejorar la toma de decisiones y automatizar tareas en diversos campos como la salud, la educación y la industria. Sin
+ La inteligencia artificial se ha convertido en una herramienta fundamental en la sociedad contemporánea, permitiendo optimizar            procesos, mejorar la toma de decisiones y automatizar tareas en diversos campos como la salud, la educación y la industria. Sin
   embargo, su uso responsable requiere considerar aspectos éticos como la privacidad, la transparencia y el impacto en el empleo,           garantizando que su desarrollo beneficie a la humanidad de manera equitativa y sostenible.
 
 </div>
 
 <div align="justify">
 
-- Durante del desarrollo de mi portafolio en la unidad 2 hice uso de la IA para generar los códigos correspondientes para modificación de   textos, títulos, insertar las subacarpetas que contiene los temas de la unidad con la finalidad que mi portafolio se visualice de forma   ordenada y creativo.
+ Durante del desarrollo de mi portafolio en la unidad 2 hice uso de la IA para generar los códigos correspondientes para modificación de   textos, títulos, insertar las subacarpetas que contiene los temas de la unidad con la finalidad que mi portafolio se visualice de forma   ordenada y creativo.
 
 </div>
 
