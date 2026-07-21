@@ -56,7 +56,11 @@ Al ser una estructura de dimensión fija, su tamaño físico debe ser definido r
 
 </div>
 
-<img width="430" height="320" alt="image" src="https://github.com/user-attachments/assets/ed983c33-934b-4f63-867c-6ded0847a512" />
+<img width="430" height="520" alt="image" src="https://github.com/user-attachments/assets/04ff6936-611a-4fb8-b553-16162bfc0367" /> <br>
+
+<img width="430" height="300" alt="image" src="https://github.com/user-attachments/assets/339de894-48ba-4b75-831f-52fe7a887b18" />
+
+
 
 [**🔙 REGRESAR**](./UNIDAD%203.md)
 
