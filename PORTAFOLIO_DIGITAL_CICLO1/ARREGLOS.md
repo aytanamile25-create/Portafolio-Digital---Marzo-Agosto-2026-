@@ -30,12 +30,9 @@ Al ser una estructura de dimensión fija, su tamaño físico debe ser definido r
  Denominado formalmente como vector o lista lineal, es una estructura matemática que organiza sus componentes en una única dimensión conceptual. La disposición de la   información es estrictamente secuencial, lo que significa que los elementos se posicionan de manera adyacente en el espacio de direccionamiento físico. El acceso a     cada celda de memoria requiere exclusivamente de un único índice escalar, el cual inicia su conteo desde el valor cero en lenguajes como C. Su procesamiento            algorítmico es de baja complejidad, requiriendo un solo ciclo iterativo para ejecutar tareas de lectura, escritura o búsqueda.
 
 </div>
+<img width="430" height="250" alt="image" src="https://github.com/user-attachments/assets/53dbb4cf-2f8b-47d2-bf60-d013dd705615" /> <BR>
 
-<img width="430" height="520" alt="image" src="https://github.com/user-attachments/assets/48f048c6-6a91-48f9-b455-1a0393eec8b0" />
-
-
-
-
+<img width="430" height="250" alt="image" src="https://github.com/user-attachments/assets/65f94d6c-2bf8-4460-a72c-b3e1653799e5" />
 
 ✔**Bidimensional**
 
