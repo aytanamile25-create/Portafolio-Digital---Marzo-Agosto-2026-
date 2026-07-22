@@ -54,13 +54,14 @@ int main() {
 
 ✔**Bidimensional**
 
-Contextualización: La facultad necesita organizar los resultados de una prueba aplicada a 2 grupos de clase, con 3 alumnos cada uno. El sistema utiliza una tabla de filas y columnas para representar cada grupo y mostrar sus notas.
 
 <div align="justify">
   
  Esta estructura bidimensional, conocida en el ámbito de la ingeniería como matriz o tabla, organiza los elementos en un plano bidireccional. Su abstracción lógica emula una cuadrícula matemática definida por dos ejes vectoriales ortogonales, los cuales representan un conjunto de filas y columnas. Para realizar la localización o manipulación de un dato, el sistema operativo exige obligatoriamente la declaración de dos coordenadas numéricas independientes. En la sintaxis de programación, el primer descriptor determina el índice de la fila y el segundo especifica la columna, procesándose mediante ciclos anidados.
 
   </div>
+  
+Contextualización: La facultad necesita organizar los resultados de una prueba aplicada a 2 grupos de clase, con 3 alumnos cada uno. El sistema utiliza una tabla de filas y columnas para representar cada grupo y mostrar sus notas.
 
 ``` c
 #include <stdio.h>
@@ -89,13 +90,15 @@ int main() {
 
 ✔**Tridimensional**
 
-Contextualización: Se busca gestionar el reporte de notas de 2 paralelos, donde cada uno se divide en 2 grupos de 3 estudiantes. Se emplean bloques tridimensionales para estructurar la jerarquía (Paralelo, Grupo, Estudiante) y que imprima los datos.
 
 <div align="justify">
 
  Es una estructura de datos compleja que añade un vector de profundidad a los conceptos tradicionales de filas y columnas, modelando un volumen espacial. Su representación lógica se asemeja a un hipercubo o a un bloque compuesto por una secuencia ordenada de matrices bidimensionales superpuestas. La indexación y el direccionamiento de la memoria física en esta estructura requieren de tres parámetros o índices independientes para descomponer la posición exacta del elemento. El tratamiento de estos tensores de datos dentro del código fuente demanda la implementación obligatoria de tres bucles iterativos anidados.
 
 </div>
+
+Contextualización: Se busca gestionar el reporte de notas de 2 paralelos, donde cada uno se divide en 2 grupos de 3 estudiantes. Se emplean bloques tridimensionales para estructurar la jerarquía (Paralelo, Grupo, Estudiante) y que imprima los datos.
+
 
 ``` c 
 #include <stdio.h>
