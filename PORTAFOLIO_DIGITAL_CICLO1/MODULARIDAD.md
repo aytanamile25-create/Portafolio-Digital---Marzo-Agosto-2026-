@@ -60,6 +60,8 @@ Es una función declarada con el tipo void que ejecuta una serie de instruccione
   
 **Enviado por valor:** Es un mecanismo donde la función recibe únicamente una copia del dato contenido en la variable original. Debido a que el módulo trabaja sobre este duplicado en una ubicación de memoria independiente, cualquier modificación realizada internamente no altera la variable original. Resulta ideal para procesar datos garantizando la protección de la información de entrada.
 
+Contextualización: Demostración del paso de parámetros por valor en C. La función intenta reiniciar a cero la variable entero, pero al recibir solo una copia de su valor, la variable original en la función main conserva su valor de 23.
+
 </div>
 
 <img width="314" height="259" alt="image" src="https://github.com/user-attachments/assets/560b79a8-ef32-497e-b6b3-c0d911c65699" />
