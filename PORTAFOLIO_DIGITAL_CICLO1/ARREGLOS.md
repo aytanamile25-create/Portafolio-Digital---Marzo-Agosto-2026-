@@ -31,6 +31,8 @@ Al ser una estructura de dimensión fija, su tamaño físico debe ser definido r
 
 </div>
 
+Contextualización: Se requiere registrar las 5 calificaciones finales obtenidas por un estudiante durante el parcial. El programa almacena esta lista lineal de notas y las muestra en pantalla de forma ordenada para su verificación.
+
 ``` c
 
 #include <stdio.h>
@@ -51,6 +53,8 @@ int main() {
 <img width="430" height="250" alt="image" src="https://github.com/user-attachments/assets/65f94d6c-2bf8-4460-a72c-b3e1653799e5" />
 
 ✔**Bidimensional**
+
+Contextualización: La facultad necesita organizar los resultados de una prueba aplicada a 2 grupos de clase, con 3 alumnos cada uno. El sistema utiliza una tabla de filas y columnas para representar cada grupo y mostrar sus notas.
 
 <div align="justify">
   
@@ -84,6 +88,8 @@ int main() {
 
 
 ✔**Tridimensional**
+
+Contextualización: Se busca gestionar el reporte de notas de 2 paralelos, donde cada uno se divide en 2 grupos de 3 estudiantes. Se emplean bloques tridimensionales para estructurar la jerarquía (Paralelo, Grupo, Estudiante) y que imprima los datos.
 
 <div align="justify">
 
