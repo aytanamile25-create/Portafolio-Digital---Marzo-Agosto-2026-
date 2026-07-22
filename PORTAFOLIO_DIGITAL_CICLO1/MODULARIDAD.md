@@ -67,9 +67,11 @@ Contextualización: Demostración del paso de parámetros por valor en C. La fun
 <img width="314" height="259" alt="image" src="https://github.com/user-attachments/assets/560b79a8-ef32-497e-b6b3-c0d911c65699" />
 
 <div align="justify">
+
   
 **Envío por referencia:** Es un mecanismo mediante el cual la función recibe la dirección de memoria directa donde se aloja la variable original. Al operar directamente sobre esa ubicación, cualquier cambio o cálculo realizado dentro del módulo modificará de forma inmediata el valor real del programa. Es fundamental para manipular estructuras complejas o devolver múltiples resultados.
 
+Contextualización: Se demuestra el paso de parámetros por referencia en C utilizando punteros (*) y direcciones de memoria (&). La función accede directamente a la ubicación de la variable entero y modifica su valor original a 0, reflejando el cambio dentro de la función main.
 </div>
 
 <img width="345" height="265" alt="image" src="https://github.com/user-attachments/assets/de6f8405-f93f-46e3-9288-8a7bde3dbaa5" />
