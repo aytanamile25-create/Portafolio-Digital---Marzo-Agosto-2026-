@@ -62,9 +62,24 @@ Es una función declarada con el tipo void que ejecuta una serie de instruccione
 
 Contextualización: Demostración del paso de parámetros por valor en C. La función intenta reiniciar a cero la variable entero, pero al recibir solo una copia de su valor, la variable original en la función main conserva su valor de 23.
 
-</div>
+``` c
+#include <stdio.h>
 
-<img width="314" height="259" alt="image" src="https://github.com/user-attachments/assets/560b79a8-ef32-497e-b6b3-c0d911c65699" />
+void reiniciarDato(int numero)
+{
+    numero = 0;
+}
+
+int main()
+{
+    int entero = 23;
+    reiniciarDato(entero);
+
+    printf("\n%i\n", entero);
+}
+```
+
+
 
 <div align="justify">
 
@@ -72,9 +87,24 @@ Contextualización: Demostración del paso de parámetros por valor en C. La fun
 **Envío por referencia:** Es un mecanismo mediante el cual la función recibe la dirección de memoria directa donde se aloja la variable original. Al operar directamente sobre esa ubicación, cualquier cambio o cálculo realizado dentro del módulo modificará de forma inmediata el valor real del programa. Es fundamental para manipular estructuras complejas o devolver múltiples resultados.
 
 Contextualización: Se demuestra el paso de parámetros por referencia en C utilizando punteros (*) y direcciones de memoria (&). La función accede directamente a la ubicación de la variable entero y modifica su valor original a 0, reflejando el cambio dentro de la función main.
-</div>
 
-<img width="345" height="265" alt="image" src="https://github.com/user-attachments/assets/de6f8405-f93f-46e3-9288-8a7bde3dbaa5" />
+``` c
+#include <stdio.h>
+
+void reiniciarDato(int *numero)
+{
+    *numero = 0;
+}
+
+int main()
+{
+    int entero = 23;
+    reiniciarDato(&entero);
+
+    printf("\n%i\n", entero);
+}
+```
+
 
 [**🔙 REGRESAR**](./UNIDAD%203.md)
 
